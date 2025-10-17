@@ -1,8 +1,8 @@
 - 👋 Hi, I’m João Pedro de Brito Silva Meira, my social networks are in the end of the archive.
 - 👀 I’m interested in animes, programing, physical exercices and playing videogames.
-- 🌱 I’m currently learning JavaScript and TypeScript, I´ve already used a bit of Python and C.
+- 🌱 I’m currently learning JavaScript and TypeScript, I´ve already used a bit of Python, C and MySQL.
 - 💞️ I’m looking to collaborate on any database, development or cybersecurity company.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I like LinkinPark.
-- 📫 How to reach me: Instagram: @britukk;
+- ⚡ Fun fact: I like LinkinPark and Vinland Saga.
+- 📫 How to reach me: Instagram: @britukk  ///  Discord: britukk;
 - Linkedin:https://www.linkedin.com/in/jo%C3%A3o-pedro-brito-silva-meira-47b43a321/
