@@ -1,6 +1,6 @@
  ### Hi! I'm João Pedro de Brito
 - 👀 I’m interested in animes, programing, physical exercices and playing videogames.
-- 🌱 I’m currently learning JavaScript and TypeScript, I´ve already used a bit of Python, C and MySQL.
+- 🌱 I’m currently learning Java, I´ve already used a bit of Python, C, MySQL, JavaScript and TypeScript.
 - 💞️ I’m looking to collaborate on any database, development or cybersecurity company.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like LinkinPark and Vinland Saga.
