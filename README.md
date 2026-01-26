@@ -1,4 +1,4 @@
-
+# Hello World 👋🌏
 <!-- ANTES
  ### Hi! I'm João Pedro de Brito
 - 👀 I’m interested in animes, programing, physical exercices and playing videogames.
@@ -7,6 +7,8 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I like LinkinPark and Vinland Saga.
 -->
+
+## 🧑‍💻🪪 My GitHub statistics
 
 <!-- teste -->
 <div align="center">
